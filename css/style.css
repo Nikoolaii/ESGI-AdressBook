@@ -1,0 +1,55 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #FAF9F6;
+}
+
+.hidden {
+  display: none;
+}
+
+button,
+input[type="submit"] {
+  margin: 0 auto;
+  width: 100%;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+input[type="text"] {
+  margin: 0 auto;
+  width: 100%;
+  padding: 10px 0;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border: 1px solid #00b4d8;
+  transition: all 0.2s ease;
+}
+
+.flexContainer>div {
+  width: 40%;
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+#showingContact {
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+a {
+  cursor: pointer;
+}
