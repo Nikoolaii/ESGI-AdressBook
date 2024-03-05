@@ -12,7 +12,7 @@
   <img src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/2.png" width="280" />
   <br/>
   <img src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/3.png" width="280" />
-</details><br/>
+</details>
 
 ### Features 🚀
 
