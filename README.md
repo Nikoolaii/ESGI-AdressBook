@@ -11,8 +11,8 @@
   <img align="left" src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/1.png" width="280" />
   <img src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/2.png" width="280" />
   <br/>
-  <img align="left" src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/3.png" width="280" />
-</details>
+  <img src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/3.png" width="280" />
+</details><br/>
 
 ### Features 🚀
 
