@@ -1,21 +1,41 @@
-# ESGI-AdressBook
-This repo is a project made for the ESGI school.
-The aim is to discover Javascript and the local storage functionnality.
+# ESGI - Adress Book #
 
-## Usage
-Just open index.html or use a VSC extension like "Live Server".
+<p align="center">
+   <strong>A website made with javascript as an initiation to Jquery</strong><br />
+   <strong>All is stored in the browser local storage</strong>
+</p>
 
-## Build With
+<details>
+  <summary><strong>➡️ Screenshots</strong></summary>
+  <br/>
+  <img align="left" src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/1.png" width="280" />
+  <img src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/2.png" width="280" />
+  <br/>
+  <img align="left" src="https://github.com/Nikoolaii/ESGI-AdressBook/blob/main/img_readme/3.png" width="280" />
+</details>
 
-![https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+### Features 🚀
 
-## Contributing
+- 👨 **Create a card about a person**
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+- 🔄 **Edit and delete the card**
 
-Please make sure to update tests as appropriate.
+## Prerequisites for use 🛠️
 
-## License
+- NONE
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## Prerequisites for installation 🛠️
+
+- An internet connexion (For Jquery CDN - Possibility to remplace the CDN by a downloaded version of JQ)
+
+## How to Run the Project ▶️
+
+1. Open the file ```index.html```
+
+## Authors ✨
+
+[@Nikoolaii](https://github.com/Nikoolaii)
+
+## License 📄
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
